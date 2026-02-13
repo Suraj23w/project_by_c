@@ -1,4 +1,4 @@
-# project_by_c
+# project_in_python
 YouTube Video Manager (Python CLI Application)
 
 Overview
